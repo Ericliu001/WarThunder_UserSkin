@@ -1,0 +1,11 @@
+name:t="user"
+
+replace_tex{
+  from:t="f_6c_pakistan_c*"
+  to:t="f_6c_pakistan.tga"
+}
+
+replace_tex{
+  from:t="f_6c_pakistan_n*"
+  to:t="f_6c_pakistan_n.tga"
+}

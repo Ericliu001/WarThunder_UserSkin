@@ -1,0 +1,21 @@
+name:t="user"
+
+replace_tex{
+  from:t="p_51_mk2_thunder_league_c*"
+  to:t="p_51_tl_usaaf_c.dds"
+}
+
+replace_tex{
+  from:t="p_51_mk2_thunder_league_c_dmg*"
+  to:t="p_51_tl_usaaf_c_dmg.dds"
+}
+
+replace_tex{
+  from:t="p_51_mk2_n*"
+  to:t="p_51_tl_usaaf_n.dds"
+}
+
+replace_tex{
+  from:t="p_51_mk2_n_dmg*"
+  to:t="p_51_tl_usaaf_n_dmg.dds"
+}

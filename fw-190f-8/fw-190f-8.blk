@@ -1,0 +1,6 @@
+name:t="user"
+
+replace_tex{
+  from:t="fw_190f_8_a*"
+  to:t="fw_190f_8_a.tga"
+}

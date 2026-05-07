@@ -1,0 +1,6 @@
+name:t="user"
+
+replace_tex{
+  from:t="bf_109g_2_roman_a*"
+  to:t="bf_109g_2_finland_a.tga"
+}

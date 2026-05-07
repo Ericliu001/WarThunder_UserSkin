@@ -1,0 +1,11 @@
+name:t="user"
+
+replace_tex{
+  from:t="a_5c_c*"
+  to:t="a_5c.tga"
+}
+
+replace_tex{
+  from:t="a_5c_n*"
+  to:t="a_5c_n.tga"
+}
