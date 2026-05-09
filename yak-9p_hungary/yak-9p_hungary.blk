@@ -1,0 +1,11 @@
+name:t="user"
+
+replace_tex{
+  from:t="yak_9p_c*"
+  to:t="yak_9p_hungary.tga"
+}
+
+replace_tex{
+  from:t="yak_9p_n*"
+  to:t="yak_9p_hungary_n.tga"
+}
